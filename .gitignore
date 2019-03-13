@@ -24,3 +24,7 @@ hs_err_pid*
 
 
 .idea
+
+
+#output from tomcat compilation
+out
